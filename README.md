@@ -6,14 +6,14 @@
 # 👋 Hi, I'm Shubh  
 
 
-⚡ Obsessed with **low-level coding**, **AI/ML experiments**,**System programming** and building tools that run fast & lean.  
+⚡ Obsessed with **low-level coding**, **AI/ML experiments**, **System programming** and building tools that run fast & lean.  
 
 ---
 
 ## 🚀 About Me  
 - 🔨 Crafting tools & configs to supercharge productivity  
-- 🐧 Linux + Neovim enthusiast  
-- 🌱 Currently exploring Rust deeply (with a side of Python & C++)  
+- 🐧 Linux + Neovim + linux enthusiast  
+- 🌱 Currently exploring Rust with a side of Python & C++
 - 🎯 Interested in **systems programming, compilers, and AI/ML applications**  
 
 ---
@@ -34,15 +34,15 @@
 ## 📌 Featured Projects  
 
 🔹 **[Rust ToDo CLI App](https://github.com/shadowed-shubh/todo-cli)**  
-> ⚡ A lightning-fast command-line ToDo manager written in Rust.  
+> ⚡ A lightning-fast command-line ToDo manager written in Rust and using ncurses.  
 
-🔹 **[Music Visualizer (C++)](https://github.com/shadowed-shubh/music-visualizer)**  
-> 🎵 Real-time C++ application for creating stunning music-driven visualizations.  
+🔹 **[Music Visualizer (C++)](https://github.com/shadowed-shubh/raylib-music-vis.git)**  
+> 🎵 Real-time C++ application for creating stunning music-driven visualizations using raylib.  
 
-🔹 **[Neovim Setup](https://github.com/shadowed-shubh/nvim-setup)**  
+🔹 **[Neovim Setup](https://github.com/shadowed-shubh/my-nvim-setup.git)**  
 > ✨ Custom Neovim configuration packed with productivity-focused plugins.  
 
-🔹 **[Web App](https://github.com/shadowed-shubh/web-app)**  
+🔹 **[Web App](https://github.com/shadowed-shubh/Qunta_4.git)**  
 > 🌐 A small web application experimenting with frontend + backend integration.  
 
 ---
@@ -50,15 +50,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowed-shubh&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowed-shubh&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-gkeseg4n4-shubhs-projects-9e8336c1.vercel.app/api/top-langs/?username=shadowed-shubh&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
 
 ---
 
 ## 🌐 Connect with Me  
-📫 [Gmail](shadowed.sp@gmail.com)
-Reach me on [GitHub](https://github.com/shadowed-shubh)  
+📫 
+Reach me on [GitHub](https://github.com/shadowed-shubh) , [Gmail](shadowed.sp@gmail.com)
 
 
 ---
