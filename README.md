@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="shadowed.png" alt="Banner" width="100%" />
+  <img src="" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Shubh  
 
-💻 Systems programmer in the making • 🦀 Rustacean • 🐍 Python tinkerer  
-⚡ Obsessed with **low-level coding**, **AI/ML experiments**, and building tools that run fast & lean.  
+
+⚡ Obsessed with **low-level coding**, **AI/ML experiments**,**System programming** and building tools that run fast & lean.  
 
 ---
 
@@ -57,6 +57,8 @@
 ---
 
 ## 🌐 Connect with Me  
-📫 Reach me on [GitHub](https://github.com/shadowed-shubh)  
+📫 [Gmail](shadowed.sp@gmail.com)
+Reach me on [GitHub](https://github.com/shadowed-shubh)  
+
 
 ---
